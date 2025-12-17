@@ -1,3 +1,4 @@
+HEAD
 # Time Series Stock Price Analysis & Forecasting
 
 ## Overview
@@ -73,6 +74,9 @@ Visualization of long-term stock price behavior, including growth phases, drawdo
 1. Clone the repository  
 2. Install dependencies:
    ```bash
-   pip install pandas numpy matplotlib seaborn statsmodels
+pip install pandas numpy matplotlib seaborn statsmodels
+
 3.Open the notebook:
-jupyter notebook Time_Series_Stock_Prices.ipynb
+jupyter notebook Time_Series_Stock_prices.ipynb
+
+
