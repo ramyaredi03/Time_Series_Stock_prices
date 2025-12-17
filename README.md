@@ -33,29 +33,32 @@ The project follows an end-to-end time-series workflow:
 ### ARIMA Forecast vs Actual
 Comparison of ARIMA-based forecasts against actual weighted average price (WAP), illustrating the model’s ability to capture overall trends and short-term movements.
   
-![ARIMA Forecast vs Actual](images/arima_forecast_vs_actual.png)
+<img src="images/arima_forecast_vs_actual.png" width="800"/>
 
 ### OHLC Price Trends
 Time-series visualization of Open, High, Low, and Close prices highlighting long-term growth patterns and market volatility.
 
-![OHLC Price Trends](images/ohlc_price_time_series.png)
+<img src="images/ohlc_price_time_series.png" width="800"/>
 
 ### Distribution & Normality Analysis
 Analysis of price distribution characteristics and deviations from normality.
 
 **Q–Q Plot**
-![Q-Q Plot](images/qq_plot_price_distribution.png)
+
+<img src="images/qq_plot_price_distribution.png" width="700"/>
 
 **WAP Density Distribution**
-![WAP Density](images/wap_density_distribution.png)
+
+<img src="images/wap_density_distribution.png" width="700"/>
 
 **WAP Histogram**
-![WAP Histogram](images/wap_histogram.png)
+
+<img src="images/wap_histogram.png" width="700"/>
 
 ### Long-Term Price Trend
 Visualization of long-term stock price behavior, including growth phases, drawdowns, and recovery periods across market cycles.
 
-![Long-Term Price Trend](images/long_term_price_trend.png)
+<img src="images/long_term_price_trend.png" width="700"/>
 
 ## Results
 - Identified long-term trends and short-term fluctuations in stock prices
